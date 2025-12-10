@@ -1063,9 +1063,9 @@ export const gameData = [
         ],
         "Developer": "UW CIP",
         "Release Year": "2024",
-        "img": "BossBaby.png",
+        "img": "ChronoShift.png",
         "alt_text": "Brown text infront of a cream background next to a money mouth face emoji.",
-        'id': 38
+        'id': 39
     },
     {
         "title": "Troll Factory",
@@ -1095,6 +1095,6 @@ export const gameData = [
         "Release Year": "2019",
         "img": "TrollFactory.png",
         "alt_text": "Troll Factory Logo next to a wireframe from the game.",
-        'id': 39
+        'id': 40
     }
 ]
